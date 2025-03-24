@@ -3,6 +3,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources) 
 - [Tools](#tools)
+- [Data Cleaning/Preparation](#data-Cleaning/Preparation)
+- [Questions for Data Analysis](#Questions-for-Data-Analysis)
+- [Challenges](#Challenges)
 
 ### Project Overview
 This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016 to the team of creative directors of Apple TV. By analyzing various aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
