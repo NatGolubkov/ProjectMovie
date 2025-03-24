@@ -15,6 +15,6 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 - Data loading and inspection.
 - Handling errors, missing values.
 - Data cleaning and formatting.
-The excel file after the data cleaning & preparation process can be downloaded here - [Reday_to_use_Dashboard](https://github.com/user-attachments/files/19431612/Dashboard_Excel.xlsx)
+The excel file after the data cleaning & preparation process can be downloaded here - [Ready_to_use_Dashboard](https://github.com/user-attachments/files/19431612/Dashboard_Excel.xlsx)
 
 
