@@ -34,3 +34,22 @@ As an example of interesting findings: best profitable movie, with an ROI of 100
 There were not many female profitable actors these years, but Jennifer Lawrence was the top 1.
 ![TopActors](https://github.com/user-attachments/assets/d7555633-5c92-4db7-b02a-d34d1089c259)
 
+### Challenges
+#### M Language 
+
+One of interesting features I was working with was a specific code for Grouping in M language which enable me to Combine genres together for further analysis.
+
+```
+
+= Table.Group(#"Sorted Rows1", {"Movie Title"}, 
+
+                                            {{"Combined Genre", each Text.Combine([Concat Genre], " / "), type text},
+
+                                            {"AllData", each _, 
+
+                                                        type table [Movie Title=nullable text, Release Date=nullable date, Wikipedia URL=nullable text, Concat Genre=nullable text, Director=nullable text, Actor First=nullable text, Actor Second=nullable text, Actor Third=nullable text, Actor Fourth=nullable text, Actor Fifth=nullable text, #"Budget ($)"=nullable number, #"Box Office Revenue ($)"=nullable number]}
+
+                                            }
+
+```
+
