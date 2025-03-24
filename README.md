@@ -3,8 +3,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources) 
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-Cleaning/Preparation)
+- [Data Preparation](#data-preparation)
 - [Questions for Data Analysis](#Questions-for-Data-Analysis)
+- [Results and Findings](#Results-and-Findings)
 - [Challenges](#Challenges)
 
 ### Project Overview
@@ -19,7 +20,7 @@ Movie Data : The primary dataset used for this analysis is the  [Data Ready for 
 - Excel - for Data Analysis
   - Pivot Tables - for Creating Dashboard and Visualizations
 
-### Data Cleaning/Preparation
+### Data Preparation
 - Data loading and inspection.
 - Handling errors, missing values.
 - Data cleaning and formatting.
