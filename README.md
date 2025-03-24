@@ -17,4 +17,14 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 - Data cleaning and formatting.
 The excel file after the data cleaning & preparation process can be downloaded here - [Ready_to_use_Dashboard](https://github.com/user-attachments/files/19431612/Dashboard_Excel.xlsx)
 
+### Questions for Data Analysis
+ 1. Which top 10 genres were the most successful (box) these years?
+ 2. Which top 5 actors were the most successfull?
+ 3. Top 5 movies by Box and Budget?
+ 4. Seasonality?
+
+### Results and Findings
+Best profitable movie, with an ROI of 10080%, was horror movie "Devil Inside".
+
+
 
