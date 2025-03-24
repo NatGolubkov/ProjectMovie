@@ -23,8 +23,12 @@ The excel file after the data cleaning & preparation process can be downloaded h
  3. Top 5 movies by Box and Budget?
  4. Seasonality?
 
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/b15960f0-75a7-4609-96fb-9f48b838744f)
+
 ### Results and Findings
-Best profitable movie, with an ROI of 10080%, was horror movie "Devil Inside".
+As an example of interesting findings: best profitable movie, with an ROI of 10080%, was horror movie "Devil Inside".
+![TopProfitMovie](https://github.com/user-attachments/assets/90a7df26-520f-4f71-9cbe-8d5fc432bce8)
 
 
 
