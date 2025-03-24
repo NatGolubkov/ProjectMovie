@@ -31,5 +31,5 @@ The excel file after the data cleaning & preparation process can be downloaded h
 As an example of interesting findings: best profitable movie, with an ROI of 10080%, was horror movie "Devil Inside".
 ![TopProfitMovie](https://github.com/user-attachments/assets/90a7df26-520f-4f71-9cbe-8d5fc432bce8)
 
-
+There were not many female profitable actors these years, but Jennifer Lawrence was the top 1.
 
