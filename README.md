@@ -32,4 +32,5 @@ As an example of interesting findings: best profitable movie, with an ROI of 100
 ![TopProfitMovie](https://github.com/user-attachments/assets/90a7df26-520f-4f71-9cbe-8d5fc432bce8)
 
 There were not many female profitable actors these years, but Jennifer Lawrence was the top 1.
+![TopActors](https://github.com/user-attachments/assets/d7555633-5c92-4db7-b02a-d34d1089c259)
 
